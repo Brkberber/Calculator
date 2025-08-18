@@ -41,8 +41,6 @@ project-folder/
 └── README.md        # Project documentation
 ```
 
-## Screenshot
-*(Add a screenshot of your calculator app here if you want)*
 
 ## Future Improvements
 - Add scientific calculator functions (sin, cos, log, etc.)  
