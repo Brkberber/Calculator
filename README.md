@@ -22,7 +22,7 @@ pip install PyQt5
 ## How to Run
 1. Clone or download the source code:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/Brkberber/Calculator.git
    cd repository-name
    ```
 2. Make sure `main.py` and `calculator.py` (the Qt Designer UI file) are in the same folder.  
